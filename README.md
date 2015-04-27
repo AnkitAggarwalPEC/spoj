@@ -1,4 +1,4 @@
 spoj
 ====
 
-My spoj solution
+My spoj solutions
